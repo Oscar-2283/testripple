@@ -17,7 +17,7 @@ body{
 
 
 .banner{
-	background:url('https://media-exp1.licdn.com/dms/image/C4E1BAQHXp25ByAD9yA/company-background_10000/0/1550679681786?e=2147483647&v=beta&t=OF-r7YdkbsFpYFBcojHtY8Mocdh3SxfPFD_tMZHxzPI') center center no-repeat;
+	background:url('./pool.jfif') center center no-repeat;
 	background-size: cover;
 	height: 100vh;
     width: 100%;
